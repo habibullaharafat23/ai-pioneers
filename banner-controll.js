@@ -1,14 +1,14 @@
 var websitePrivacyPage = "https://www.metricsrealm.com/privacy-policy/";
 var unknownCookieText = ["Unknown", "This cookie information is unknown"];
 
-var categoryText = ["Necessary", "Preferences", "Statistics", "Marketing", "Unclassified"];
+var categoryText = ["noodzakelijk", "Voorkeuren", "Statistieken", "Marketing", "Niet geclassificeerd"];
 
 var learnMoreText = "Learn more about the provider";
 
 var topSectionText = ["Toestemming", "Details", "Over"];
 
 var firstSectionText = "We gebruiken cookies om inhoud en advertenties te personaliseren, functies voor sociale media aan te bieden en ons verkeer te analyseren. We delen ook informatie over uw gebruik van onze website met onze sociale media-, advertentie- en analysepartners, die deze kunnen combineren met andere informatie die u aan hen hebt verstrekt of die zij hebben verzameld door uw gebruik van hun diensten.";
-var thirdSectionText = "Cookies are small text files that are used by websites to improve the user experience. The law states that we can store cookies on your device if they are strictly necessary for the operation of this website. For all other types of cookies, we need your permission. This means that cookies classified as necessary are managed according to Article 6(1)(f) of the GDPR. All other cookies, such as those in the Preferences and Marketing categories, are managed according to Article 6(1)(a) of the GDPR. This website uses different types of cookies. Some cookies are set by third-party services that appear on our pages.";
+var thirdSectionText = "Cookies zijn kleine tekstbestanden die door websites worden gebruikt om de gebruikerservaring te verbeteren. De wet bepaalt dat wij cookies op uw apparaat kunnen plaatsen als deze strikt noodzakelijk zijn voor de werking van deze website. Voor alle andere soorten cookies hebben wij uw toestemming nodig. Dit betekent dat cookies die als noodzakelijk zijn geclassificeerd, worden beheerd overeenkomstig artikel 6, lid 1, onder f) van de AVG. Alle andere cookies, zoals die in de categorieën Voorkeuren en Marketing, worden beheerd overeenkomstig artikel 6, lid 1, onder a) van de AVG. Deze website maakt gebruik van verschillende soorten cookies. Sommige cookies worden geplaatst door diensten van derden die op onze pagina's verschijnen.";
 
 var bannerButtonsTexts = ["Accepteren", "Afwijzen", "personaliseren", "Redden"];
 
