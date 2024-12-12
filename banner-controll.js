@@ -5,7 +5,7 @@ var categoryText = ["Necessary", "Preferences", "Statistics", "Marketing", "Uncl
 
 var learnMoreText = "Learn more about the provider";
 
-var topSectionText = ["Consent", "Details", "About"];
+var topSectionText = ["Toestemming", "Details", "Over"];
 
 var firstSectionText = "We gebruiken cookies om inhoud en advertenties te personaliseren, functies voor sociale media aan te bieden en ons verkeer te analyseren. We delen ook informatie over uw gebruik van onze website met onze sociale media-, advertentie- en analysepartners, die deze kunnen combineren met andere informatie die u aan hen hebt verstrekt of die zij hebben verzameld door uw gebruik van hun diensten.";
 var thirdSectionText = "Cookies are small text files that are used by websites to improve the user experience. The law states that we can store cookies on your device if they are strictly necessary for the operation of this website. For all other types of cookies, we need your permission. This means that cookies classified as necessary are managed according to Article 6(1)(f) of the GDPR. All other cookies, such as those in the Preferences and Marketing categories, are managed according to Article 6(1)(a) of the GDPR. This website uses different types of cookies. Some cookies are set by third-party services that appear on our pages.";
@@ -14,19 +14,19 @@ var bannerButtonsTexts = ["Accepteren", "Afwijzen", "personaliseren", "Redden"];
 
 var categoryDescriptionsText = {
 	Necessary: {
-		description: "Necessary cookies make the website usable by enabling basic functions like page navigation and access to secure areas of the website. Without these cookies, the website cannot function properly.",
+		description: "Noodzakelijke cookies maken de website bruikbaar door basisfuncties zoals paginanavigatie en toegang tot beveiligde delen van de website mogelijk te maken. Zonder deze cookies kan de website niet goed functioneren.",
 	},
 	Preferences: {
-		description: "Preference cookies enable a website to remember information that changes the way the website behaves or looks.",
+		description: "Voorkeurscookies zorgen ervoor dat een website informatie kan onthouden die de manier verandert waarop de website zich gedraagt ​​of eruit ziet.",
 	},
 	Statistics: {
-		description: "Statistics cookies help website owners understand how visitors interact with websites by collecting and reporting information anonymously.",
+		description: "Statistiekcookies helpen website-eigenaren te begrijpen hoe bezoekers omgaan met websites door anoniem informatie te verzamelen en te rapporteren.",
 	},
 	Marketing: {
-		description: "Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user.",
+		description: "Marketingcookies worden gebruikt om bezoekers op verschillende websites te volgen. De bedoeling is om advertenties weer te geven die relevant en aantrekkelijk zijn voor de individuele gebruiker.",
 	},
 	Unclassified: {
-		description: "Unclassified cookies are cookies that we are currently classifying together with the providers of individual cookies.",
+		description: "Niet-geclassificeerde cookies zijn cookies die we momenteel samen met de aanbieders van individuele cookies classificeren.",
 	},
 };
 
